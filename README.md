@@ -26,6 +26,7 @@ ENSEIGNANT:
 CONSULTER/ETUDIANT:
 ![consulter](https://user-images.githubusercontent.com/103389967/231349993-e3ff6749-4c65-41b3-8319-07ba2c073a16.PNG)
 ![refresh](https://user-images.githubusercontent.com/103389967/231350030-63db8e84-2576-4451-be83-901796a30125.PNG)
+![triez par](https://user-images.githubusercontent.com/103389967/231350538-60220e16-e07c-430c-8bf5-9cd926405d53.PNG)
 
 
 
