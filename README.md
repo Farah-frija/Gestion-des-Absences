@@ -1,5 +1,5 @@
 # Gestion-des-Absences
-Application de gestion des absences écrit en java swing qui permet aux administrateurs et enseignants de gérer les absences(supprimer(admin) + ajouter(enseignant) + consulter)
+Application de gestion des absences écrite en java swing qui permet aux administrateurs et enseignants de gérer les absences(supprimer(admin) + ajouter(enseignant) + consulter)
 et aux étudiants de consulter la liste des absences .
 Tech utilisée : Java, Swing GUI, JDBC
 Database : SQLserver
